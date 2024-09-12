@@ -1,4 +1,4 @@
-#예제1
+#예제2
 import collections
 
 Card = collections.namedtuple('Card', ['rank', 'suit'])
